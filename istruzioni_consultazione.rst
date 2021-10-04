@@ -42,7 +42,7 @@ dello stesso Codice.
 Come partecipare
 ================
 
-Le Linee Guida sono pubblicate su `Docs Italia https://docs.italia.it/docs/lg-pdnd-docs/it/bozza/index.html`_ 
-ed è possibile commentarle su `Forum Italia https://forum.italia.it/c/documenti-in-consultazione/lg-pdnd-per-linteroperabilita/85`_.
+Le Linee Guida sono pubblicate su `Docs Italia <https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/>`_ 
+ed è possibile commentarle su `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione/lg-pdnd-per-linteroperabilita/85>`_.
 
 È possibile inviare i propri commenti fino al 03/11/2021.
