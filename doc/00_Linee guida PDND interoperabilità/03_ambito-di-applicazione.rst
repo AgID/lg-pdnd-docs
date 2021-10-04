@@ -56,3 +56,7 @@ in merito alla progettazione, sviluppo e gestione dell’Infrastruttura
 interoperabilità PDND nella sua qualità di gestore, ai sensi dell’articolo 8, 
 commi 2 e 3 del decreto legge 14 dicembre 2018, n. 135, convertito in 
 legge 11 febbraio 2019, n. 12. 
+
+.. forum_italia::
+   :topic_id: 26412
+   :scope: document

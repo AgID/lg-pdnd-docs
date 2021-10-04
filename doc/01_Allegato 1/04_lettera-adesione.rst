@@ -32,3 +32,7 @@ La Lettera di Adesione è sottoscritta con firma elettronica ai sensi
 del Regolamento eIDAS e, qualora l’Aderente sia una pubblica amministrazione, 
 costituisce accordo ai ai sensi dell’articolo 15 della legge 7 agosto 1990, 
 n. 241 e s.m.i.  
+ 
+.. forum_italia::
+   :topic_id: 26426
+   :scope: document

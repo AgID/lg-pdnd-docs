@@ -81,3 +81,7 @@ Gli Utenti degli Aderenti a cui è assegnata la presente categoria possono:
   
   - registrare il materiale crittografico pubblico dei Server Erogatore 
     a cui è associato.
+
+.. forum_italia::
+   :topic_id: 26432
+   :scope: document

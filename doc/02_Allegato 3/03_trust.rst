@@ -103,3 +103,7 @@ Sulla base della tipologia dei dati oggetto delle comunicazioni realizzate
 per il tramite degli e-service messi a disposizione dei Fruitori, gli 
 Erogatori DEVONO individuare gli opportuni pattern e profili previsti 
 nelle [LG INTEROPERABILITÀ TECNICA].
+
+.. forum_italia::
+   :topic_id: 26435
+   :scope: document

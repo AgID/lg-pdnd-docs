@@ -284,3 +284,6 @@ all’Access Token Request e il dettaglio del contenuto dell’Access Token
 emesso dalla stessa infrastruttura sono oggetto della documentazione 
 tecnica predisposta dal Gestore.
 
+.. forum_italia::
+   :topic_id: 26437
+   :scope: document

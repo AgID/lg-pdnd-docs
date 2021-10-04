@@ -337,4 +337,6 @@ i dati minimi dell’entità SLA.
       -    SI
       -    NO
 
-
+.. forum_italia::
+   :topic_id: 26431
+   :scope: document

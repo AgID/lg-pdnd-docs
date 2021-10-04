@@ -265,3 +265,7 @@ Nella seguente tabella sono riportati i dati minimi dell'Accordo di interoperabi
 L’Infrastruttura interoperabilità PDND gestisce i dati di servizio necessari 
 ad assicurare l’implementazione delle funzionalità per la gestione degli 
 accordi di interoperabilità coerentemente quanto descritto in precedenza.
+
+.. forum_italia::
+   :topic_id: 26430
+   :scope: document

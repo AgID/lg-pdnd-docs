@@ -3,7 +3,7 @@ Raccolta delle informazioni relative agli accessi e alle transazioni
 
 L’Infrastruttura interoperabilità PDND fornisce il supporto per il tracciamento 
 e l’osservazione delle interazioni tra Erogatori e Fruitori. L’Infrastruttura 
-interoperabilità PDNDcolleziona alcune  informazioni utili a misurare 
+interoperabilità PDND colleziona alcune  informazioni utili a misurare 
 l'efficacia  dell’interoperabilità nel tempo ma non ha lo scopo di 
 verificare gli SLA concordati tra Erogatori e Fruitori. 
 
@@ -78,3 +78,7 @@ L’obiettivo della Infrastruttura interoperabilità PDND resta ancorato
 alla realizzazione di un punto unico di raccolta di queste informazioni, 
 non essendo tenuta a svolgere un compito di riconciliazione dei tracciati 
 di una stessa transazione e provenienti da Aderenti diversi. 
+
+.. forum_italia::
+   :topic_id: 26420
+   :scope: document

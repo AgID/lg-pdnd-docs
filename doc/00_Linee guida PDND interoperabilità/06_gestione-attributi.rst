@@ -151,3 +151,7 @@ sopra, DEVE comunicare le circostanza agli Aderenti interessati che valutano
 l’impatto sugli Accordi di interoperabilità di loro interesse e comunicano 
 alla Infrastruttura interoperabilità PDND le loro decisioni in merito 
 agli stessi (mantenimento, sospensione o terminazione).
+
+.. forum_italia::
+   :topic_id: 26415
+   :scope: document

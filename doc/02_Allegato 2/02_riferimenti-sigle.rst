@@ -24,3 +24,7 @@ espressamente richiamate nelle presenti Linee Guida.
    * -    [LG SICUREZZA]
      -    Linee Guida Tecnologie e standard per assicurare la sicurezza 
           dell'interoperabilità tramite API dei sistemi informatici
+ 
+.. forum_italia::
+   :topic_id: 26428
+   :scope: document

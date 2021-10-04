@@ -274,3 +274,7 @@ da esso definita per attuare quanto disposto nel presente Allegato.
 L’Infrastruttura interoperabilità PDND gestisce i dati di servizio necessari 
 ad assicurare l’implementazione delle funzionalità per la gestione dei 
 descrittori di e-service coerentemente quanto descritto in precedenza.
+ 
+.. forum_italia::
+   :topic_id: 26429
+   :scope: document

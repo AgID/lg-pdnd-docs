@@ -140,3 +140,7 @@ Termini e definizioni
      -    La società PagoPA S.p.A a cui è affidata la realizzazione e 
           la gestione dell’Infrastruttura interoperabilità PDND promossa 
           dalla Presidenza del Consiglio dei Ministri.
+
+.. forum_italia::
+   :topic_id: 26411
+   :scope: document

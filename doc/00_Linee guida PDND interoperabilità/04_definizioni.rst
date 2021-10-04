@@ -261,3 +261,7 @@ a tutte le Aderenti.
 L’Infrastruttura interoperabilità PDND promuove e comunica la pubblicazione 
 di nuove versioni di Template e-service e supporta la pubblicazione sul 
 Catalogo API delle istanza implementate dagli Aderenti.
+
+.. forum_italia::
+   :topic_id: 26413
+   :scope: document
