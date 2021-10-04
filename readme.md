@@ -1,3 +1,4 @@
 # Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati per l’interoperabilità dei sistemi informativi e delle basi di dati 
 
-Linee Guida previste al comma 2 dell'articolo 50-ter del CAD emanate ai sensi dell'articolo 71 del CAD.
+La presente Linee Guida attuano quanto stabilito all'Art. 50-ter, comma 2 del decreto legislativo 7 marzo 2005, n. 82 (Codice
+dell'Amministrazione Digitale)
