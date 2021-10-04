@@ -43,3 +43,7 @@ La conclusione del Processo di accreditamento determina:
   le funzionalità rese disponibili dall’Infrastruttura interoperabilità PDND.
 
 Il Processo di accreditamento è dettagliatamente disciplinato nell’Allegato 1. 
+
+.. forum_italia::
+   :topic_id: 26414
+   :scope: document

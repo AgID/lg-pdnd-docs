@@ -75,3 +75,7 @@ interoperabilità PDND DEVE assicurare sono indicate nell’Allegato 3.
 Gli Aderenti DEVONO implementare i passi indicati in precedenza per il 
 tramite dell’Infrastruttura interoperabilità PDND nelle modalità 
 indicate nell’Allegato 3. 
+
+.. forum_italia::
+   :topic_id: 26419
+   :scope: document

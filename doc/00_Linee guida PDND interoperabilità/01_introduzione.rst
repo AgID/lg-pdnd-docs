@@ -67,3 +67,7 @@ Più in particolare, le Linee Guida individuano:
 - le modalità di raccolta e conservazione delle informazioni relative 
   agli accessi e alle transazioni effettuate per il tramite dell’Infrastruttura 
   interoperabilità PDND.
+
+.. forum_italia::
+   :topic_id: 26410
+   :scope: document

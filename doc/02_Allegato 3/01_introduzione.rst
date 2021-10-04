@@ -11,4 +11,7 @@ dell’articolo 71 del CAD che hanno rilevanza per la realizzazione Infrastruttu
 interoperabilità PDND. La documentazione tecnica definita dal Gestore 
 e resa disponibile agli Aderenti attraverso la pubblicazione sul portale 
 della Infrastruttura interoperabilità PDND.
-
+ 
+.. forum_italia::
+   :topic_id: 26433
+   :scope: document

@@ -572,3 +572,7 @@ PDND e può svolgere il ruolo di Fruitore di e-service.
 L’Infrastruttura interoperabilità PDND DEVE assicurare alle persone 
 fisiche le funzionalità di gestione del Processo di accreditamento 
 tramite interfacce web.
+ 
+.. forum_italia::
+   :topic_id: 26425
+   :scope: document

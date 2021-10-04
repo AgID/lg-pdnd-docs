@@ -29,3 +29,7 @@ Il Fruitore DEVE effettuare l’analisi del rischio sulla protezione dei
 dati personali ogni volta che intende fruire di uno specifico e-service, 
 oggetto di un Accordo di Interoperabilità già stipulato, per una nuova 
 e differente finalità.
+
+.. forum_italia::
+   :topic_id: 26418
+   :scope: document

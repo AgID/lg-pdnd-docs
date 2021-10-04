@@ -123,3 +123,7 @@ e-service sul Catalogo API.
 
 L’Allegato 2 individua le modalità che i Fruitori DEVONO attuare per 
 consultare l’elenco degli e-service pubblicati sul Catalogo API.
+
+.. forum_italia::
+   :topic_id: 26416
+   :scope: document

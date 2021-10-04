@@ -108,3 +108,7 @@ da parte della Infrastruttura interoperabilità PDND.
 La fonte per la determinazione dell’indicatore è rappresentato dal momento 
 temporale delle comunicazione di merito realizzate tra l’Infrastruttura 
 interoperabilità PDND e gli Aderenti.
+
+.. forum_italia::
+   :topic_id: 26421
+   :scope: document

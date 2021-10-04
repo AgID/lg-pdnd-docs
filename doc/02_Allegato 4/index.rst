@@ -248,5 +248,6 @@ A norma degli artt. 1341 e 1342 c.c. il Fruitore, previa lettura delle norme con
 Il Fruitore _______________ (f.to digitalmente ai sensi del regolamento eIDAS.)
 
 
-
-
+.. forum_italia::
+   :topic_id: 26438
+   :scope: document

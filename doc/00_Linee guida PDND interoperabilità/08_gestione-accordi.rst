@@ -33,3 +33,7 @@ sul Catalogo API è presente nell’Allegato 4.
 Il procedimento di stipula di un Accordo di Interoperabilità è concluso 
 a seguito della sua sottoscrizione con firma elettronica ai sensi del 
 Regolamento eIDAS da parte del Fruitore e successivamente dell’Erogatore.
+
+.. forum_italia::
+   :topic_id: 26417
+   :scope: document

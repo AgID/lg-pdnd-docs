@@ -36,3 +36,7 @@ La Infrastruttura interoperabilità PDND in caso di variazione del materiale
 crittografico di un Client Fruitore DEVE permettere agli Erogatori degli 
 e-service fruiti dallo stesso Client Fruitore e per cui è abilitata 
 l’opzione “Voucher PoP”.
+
+.. forum_italia::
+   :topic_id: 26436
+   :scope: document

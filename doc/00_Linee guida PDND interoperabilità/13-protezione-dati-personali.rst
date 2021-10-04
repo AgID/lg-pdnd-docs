@@ -267,3 +267,7 @@ identificano i dati personali. In particolare DEVE:
 - se i dati non possono essere anonimizzati in modo permanente, scegliere 
   strumenti (inclusi la cancellazione parziale, la cancellazione, la ricerca 
   di hashing e l'indice) che rispondano innanzitutto alle esigenze funzionali.
+ 
+.. forum_italia::
+   :topic_id: 26422
+   :scope: document
