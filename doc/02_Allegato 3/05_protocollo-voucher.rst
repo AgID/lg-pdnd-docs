@@ -204,8 +204,7 @@ Le informazioni contenute nell’Access Token Request del Client Fruitore
 DEVONO permettere alla Infrastruttura interoperabilità PDND di individuare 
 le seguenti informazioni::
 
-- l'indicazione del Client Fruitore per cui si richiede l’emissione 
-  dell'Access Token;
+- l'indicazione del Client Fruitore per cui si richiede l’emissione dell’Access Token;
 
 - l’indicazione dell’Accordo di interoperabilità che abilità il Client 
   Fruitore all’accesso all’e-service dell’Erogatore;
