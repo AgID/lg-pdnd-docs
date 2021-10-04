@@ -1,0 +1,48 @@
+Istruzioni per la consultazione pubblica
+########################################
+
+Informazioni sulla consultazione
+================================
+
+-  **Durata della consultazione:** dal 04/10/2021 al 03/11/2021
+
+-  **Settore:** ICT
+
+Esiti della consultazione
+=========================
+
+I risultati della consultazione pubblica on line saranno presi in 
+considerazione dalla `Agenzia per l'Italia Digitale <http://www.agid.gov.it/>`__ 
+per la redazione del testo definitivo delle Linee Guida.
+
+Destinatari
+===========
+
+La Linea Guida è destinata ai soggetti di cui all'articolo 2, comma 2 
+del CAD, così come indicato dall’articolo 50-ter dello stesso, i quali
+la attuano per favorire la conoscenza e l’utilizzo del patrimonio informativo 
+detenuto per finalità istituzionali nonché la condivisione dei dati con 
+i soggetti che hanno diritto di accedervi.
+
+Le Linee Guida sono rivolte, altresì, ai soggetti privati che, unitamente 
+ai citati soggetti di cui all’art. 2, comma 2, del CAD, sono abilitati a 
+fruire della PDND al fine di accedere ai dati e alle informazioni ivi 
+resi disponibili.
+
+Obiettivo della consultazione
+=============================
+
+Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale 
+Nazionale Dati per l’interoperabilità dei sistemi informativi e delle 
+basi di dati sono redatte per l’attuazione del decreto legislativo
+7 marzo 2005, n. 82 (Codice dell'Amministrazione Digitale)
+ai sensi dell’`articolo 50-bis comma 2 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2021-01-26~art50ter>`__ 
+dello stesso Codice.
+
+Come partecipare
+================
+
+Le Linee Guida sono pubblicate su `Docs Italia <https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/>`_ 
+ed è possibile commentarle su `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione/lg-pdnd-per-linteroperabilita/85>`_.
+
+È possibile inviare i propri commenti fino al 03/11/2021.
