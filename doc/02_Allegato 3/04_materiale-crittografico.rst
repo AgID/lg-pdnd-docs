@@ -33,9 +33,10 @@ La Infrastruttura interoperabilità PDND NON DEVE permettere di associare
 uno specifico materiale crittografico a più Client Fruitore.
 
 La Infrastruttura interoperabilità PDND in caso di variazione del materiale 
-crittografico di un Client Fruitore DEVE permettere agli Erogatori degli 
-e-service fruiti dallo stesso Client Fruitore e per cui è abilitata 
+crittografico di un Client Fruitore DEVE notificare la circostanza agli Erogatori 
+degli e-service fruiti dallo stesso Client Fruitore e per cui è abilitata 
 l’opzione “Voucher PoP”.
+
 
 .. forum_italia::
    :topic_id: 26436
