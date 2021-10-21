@@ -47,8 +47,8 @@ indicata di seguito.
   Fruitore autentica lo stesso e verifica la presenza e la validità 
   dell’Accordo di Interoperabilità, le finalità indicate nella richiesta 
   ed in caso di esito positivo rilascia l'Access Token in accordo con 
-  quanto definito nello stesso accordo (ad esempio time-to-leave del 
-  Access Token);
+  quanto definito nello stesso accordo (ad esempio time-to-live
+  dell’Access Token);
   
 - Il Fruitore utilizza l'Access Token ricevuto dalla Infrastruttura 
   interoperabilità PDND per accedere all'e-service dell'Erogatore oggetto 
@@ -204,7 +204,7 @@ Le informazioni contenute nell’Access Token Request del Client Fruitore
 DEVONO permettere alla Infrastruttura interoperabilità PDND di individuare 
 le seguenti informazioni:
 
-- l'indicazione del Client Fruitore per cui si richiede l’emissione dell’Access Token;
+- l’indicazione del Client Fruitore per cui si richiede l’emissione dell’Access Token;
 
 - l’indicazione dell’Accordo di interoperabilità che abilità il Client 
   Fruitore all’accesso all’e-service dell’Erogatore;
