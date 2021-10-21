@@ -11,3 +11,4 @@ ALLEGATO 3: Standard e dettagli tecnici utilizzati per la fruizione dei Voucher 
   03_trust.rst
   04_materiale-crittografico.rst
   05_protocollo-voucher.rst
+
