@@ -72,7 +72,7 @@ l’Erogatore DEVE:
 
 - verificare che il Fruitore sia in possesso di tutti gli attributi indicati 
   nei requisiti di fruizione dell’e-service e, nello specifico, per quanto 
-  riguarda gli attributi Verificati:
+  riguarda gli Attributi Verificati:
 
   - verificare se sussistono le condizioni per l’associazione di un attributo 
     Verificato indicato dal Fruitore, se precedentemente non verificato 
@@ -110,18 +110,18 @@ Successivamente alla stipula di un Accordo di Interoperabilità:
   segnalando in anticipo al Fruitore tale circostanza nel rispetto delle 
   condizioni eventualmente indicate negli SLA concordati con il Fruitore;
 
-- l’Erogatore, nel caso abbia indicato per uno o più attributi Verificati 
+- l’Erogatore, nel caso abbia indicato per uno o più Attributi Verificati 
   periodo temporale di validità nei requisiti di fruizione dell’e-service, 
-  DEVE effettuare la verifica periodica degli stessi attributi Verificati 
+  DEVE effettuare la verifica periodica degli stessi Attributi Verificati 
   coerentemente al periodo temporale di validità indicato e registrarne 
   gli esiti sull’Infrastruttura di Interoperabilità;
 
-- l’Erogatore PUÒ effettuare la verifica degli attributi Verificati relativi 
+- l’Erogatore PUÒ effettuare la verifica degli Attributi Verificati relativi 
   ai Fruitori dei propri e-service in ogni momento lo ritenga utile e 
   registrarne gli esiti sull’Infrastruttura di Interoperabilità;
 
 - il Fruitore DEVE registrare sull’Infrastruttura di Interoperabilità 
-  la decadenza dei propri attributi Dichiarati;
+  la decadenza dei propri Attributi Dichiarati;
 
 - l’Infrastruttura di Interoperabilità, nel caso al variare degli attributi 
   del Fruitore si determini una inadempimento dei requisiti di fruizione 

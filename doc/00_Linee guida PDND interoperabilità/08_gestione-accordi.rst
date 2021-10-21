@@ -14,13 +14,13 @@ seguenti passaggi:
 
 2. al momento dell’invio della richiesta di stipula dell’Accordo di Interoperabilità 
    per lo specifico e-service, il Fruitore DEVE dichiarare, ove non effettuato 
-   precedentemente, il possesso degli attributi Dichiarati e/o indicare 
-   gli attributi Verificati, ove indicati fra i Requisiti di Fruizione 
+   precedentemente, il possesso degli Attributi Dichiarati e/o indicare 
+   gli Attributi Verificati, ove indicati fra i Requisiti di Fruizione 
    stabiliti dall’Erogatore per quel determinato e-service;
 
 3. l’Erogatore, prima di confermare la richiesta di stipula dell’Accordo 
    di Interoperabilità per l’e-service individuato dal Fruitore, DEVE verificare 
-   il possesso da parte del Fruitore degli attributi Verificati, a meno 
+   il possesso da parte del Fruitore degli Attributi Verificati, a meno 
    che l’Erogatore abbia indicato, in sede di definizione dei Requisiti 
    di Fruizione dell’e-service oggetto dell’Accordo di Interoperabilità, 
    di accettare le verifiche realizzate da altri Erogatori e sussista 
