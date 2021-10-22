@@ -218,8 +218,8 @@ Nella seguente tabella sono riportati i dati minimi del descrittori di e-service
       -    [0..1]
       -    NO
       -    NO
-    * -    requisiti di fruizione
-      -    requisiti di fruizione per l’accesso all’e-service
+    * -    Requisiti di Fruizione
+      -    Requisiti di Fruizione per l’accesso all’e-service
       -    ATTRIBUTO
       -    [0..1]
       -    SI

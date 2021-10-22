@@ -25,7 +25,7 @@ tipologie di Attributi degli Aderenti:
 - Dichiarati: i Fruitori dichiarano di possedere sotto la loro responsabilità, 
   gli attributi richiesti al fine di soddisfare i Requisiti di Fruizione 
   degli e-service per cui richiedono la stipula di un Accordo di Interoperabilità. 
-  L’Infrastruttura interoperabilità PDND registra gli attributi Dichiarati 
+  L’Infrastruttura interoperabilità PDND registra gli Attributi Dichiarati 
   per singolo Aderente. Questa tipologia di attributi è immediatamente 
   spendibile ai fini dell’autorizzazione all’accesso agli e-service in 
   quanto la loro veridicità è garantita dal Fruitore sotto la sua esclusiva 
@@ -34,7 +34,7 @@ tipologie di Attributi degli Aderenti:
 - Verificati: i Fruitori dichiarano gli attributi posseduti al fine di 
   soddisfare i Requisiti di Fruizione degli e-service per cui richiedono 
   la stipula di un Accordo di Interoperabilità. L’Infrastruttura interoperabilità 
-  PDND registra gli attributi Dichiarati per singolo Aderente in relazione 
+  PDND registra gli Attributi Dichiarati per singolo Aderente in relazione 
   allo specifico Accordo di Interoperabilità e , a differenza degli attributi 
   Dichiarati, a valle del riscontro positivo  da parte dell’Erogatore 
   di uno degli e-service richiesti dal Fruitore che prevedano lo stesso 

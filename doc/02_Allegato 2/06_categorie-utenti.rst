@@ -13,7 +13,7 @@ Gli Utenti degli Aderenti a cui è assegnata la presente categoria possono:
 
 - quando l’Aderente opera come Erogatore:
 
-  - confermare gli attributi Verificati indicati dagli Aderenti che chiedono 
+  - confermare gli Attributi Verificati indicati dagli Aderenti che chiedono 
     la stipula di Accordi di Interoperabilità;
 
   - rispondere alle richieste di stipula di un Accordo di Interoperabilità;
@@ -23,11 +23,11 @@ Gli Utenti degli Aderenti a cui è assegnata la presente categoria possono:
 
 - quando l’Aderente opera come Fruitore:
 
-  - attribuirsi gli attributi Dichiarati necessari al soddisfacimento 
-    dei requisiti di fruizione degli e-service;
+  - attribuirsi gli Attributi Dichiarati necessari al soddisfacimento 
+    dei Requisiti di Fruizione degli e-service;
 
-  - indicare gli attributi Verificati necessari al soddisfacimento dei 
-    requisiti di fruizione degli e-service;
+  - indicare gli Attributi Verificati necessari al soddisfacimento dei 
+    Requisiti di Fruizione degli e-service;
 
   - richiedere la stipula di un Accordo di Interoperabilità;
 
