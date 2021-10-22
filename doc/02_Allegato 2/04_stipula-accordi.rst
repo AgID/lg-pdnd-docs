@@ -15,7 +15,7 @@ quelli presenti nel Catalogo API e prende visione:
 
 - dell’interfaccia disponibile per l’utilizzo dell’e-service;
 
-- dei Requisiti di Fruizione dell’e-service;
+- dei Requisiti di Fruizione;
 
 - del modello di Accordo di Interoperabilità.
 
@@ -55,7 +55,7 @@ Il Fruitore PUÒ richiedere la stipula di un Accordo di Interoperabilità
 per uno specifico e-service solo se ad esso risultano: 
 
 - associati tutti gli attributi certificati e dichiarati indicati nei 
-  Requisiti di Fruizione dell’e-service;
+  Requisiti di Fruizione;
 
 - associati o indicati tutti gli attributi verificati indicati nei requisiti 
   di fruizione dell’e-service.
@@ -71,7 +71,7 @@ l’Erogatore DEVE:
   di Interoperabilità compilato dal Fruitore;
 
 - verificare che il Fruitore sia in possesso di tutti gli attributi indicati 
-  nei Requisiti di Fruizione dell’e-service e, nello specifico, per quanto 
+  nei Requisiti di Fruizione e, nello specifico, per quanto 
   riguarda gli Attributi Verificati:
 
   - verificare se sussistono le condizioni per l’associazione di un attributo 
@@ -111,7 +111,7 @@ Successivamente alla stipula di un Accordo di Interoperabilità:
   condizioni eventualmente indicate negli SLA concordati con il Fruitore;
 
 - l’Erogatore, nel caso abbia indicato per uno o più Attributi Verificati 
-  periodo temporale di validità nei Requisiti di Fruizione dell’e-service, 
+  periodo temporale di validità nei Requisiti di Fruizione, 
   DEVE effettuare la verifica periodica degli stessi Attributi Verificati 
   coerentemente al periodo temporale di validità indicato e registrarne 
   gli esiti sull’Infrastruttura di Interoperabilità;
