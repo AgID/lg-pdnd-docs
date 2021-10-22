@@ -24,10 +24,10 @@ Gli Utenti degli Aderenti a cui è assegnata la presente categoria possono:
 - quando l’Aderente opera come Fruitore:
 
   - attribuirsi gli Attributi Dichiarati necessari al soddisfacimento 
-    dei requisiti di fruizione degli e-service;
+    dei Requisiti di Fruizione degli e-service;
 
   - indicare gli Attributi Verificati necessari al soddisfacimento dei 
-    requisiti di fruizione degli e-service;
+    Requisiti di Fruizione degli e-service;
 
   - richiedere la stipula di un Accordo di Interoperabilità;
 
