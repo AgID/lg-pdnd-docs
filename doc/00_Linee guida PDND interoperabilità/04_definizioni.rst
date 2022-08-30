@@ -1,4 +1,4 @@
-∆Definizioni
+Definizioni
 ===========
 
 Erogatore
