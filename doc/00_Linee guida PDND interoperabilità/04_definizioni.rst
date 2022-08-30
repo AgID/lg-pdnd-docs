@@ -1,4 +1,4 @@
-Definizioni
+∆Definizioni
 ===========
 
 Erogatore
@@ -235,7 +235,7 @@ Il co-design coinvolge:
 
 - API Co-design Manager: è un Aderente, che all’interno del gruppo di 
   Pubbliche Amministrazioni interessate al co-design di un e-service, 
-  disegna e registra il Template e-service sull’Infrastruttura interoperabilità 
+  progetta e registra il Template e-service sull’Infrastruttura interoperabilità 
   PDND provvedendo a: 
 
   - dichiarare, nel rispetto del MoDI, il Template e-service delle API 
